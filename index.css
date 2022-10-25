@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#result {
+    width: 150px;
+    height: 90px;
+    border: 1px solid black;
+}
+
+#weight {
+    padding: 5px;
+    margin: 5px;
+}
+
+#height {
+    padding: 5px;
+    margin: 5px;
+}
+
+#btn {
+    margin: 5px;
+    padding: 5px;
+    border-radius: 150px;
+    display: flex;
+    justify-content: center;
+}
+
+#result {
+    margin: 5px;
+    padding: 5px;
+}
